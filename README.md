@@ -1,2 +1,2 @@
 # _test
-Paper lists of lithography using deep learning
+Paper lists of computational lithography papers which qre using deep learning
